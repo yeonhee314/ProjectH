@@ -542,21 +542,21 @@ MonoBehaviour:
   _gbjBalloon: {fileID: 1919702965980752808}
   _imgBalloon: {fileID: 3626130866934755415}
   _spriteBalloons:
-  - {fileID: 21300000, guid: 42090e3f9496541da97d73991346fea4, type: 3}
-  - {fileID: 21300000, guid: a786e2ab19df34d459e5674e9ddc5143, type: 3}
-  - {fileID: 21300000, guid: cfca9c561ad0b46dfa6c13cdf76752da, type: 3}
-  - {fileID: 21300000, guid: 4cdbc75cf84cf4bbcbc528af0292568f, type: 3}
-  - {fileID: 21300000, guid: 3dfbba3b314d141f79c8aeb8e56e70bd, type: 3}
-  - {fileID: 21300000, guid: e314841e97b904b5e9ea4d1b23f55e22, type: 3}
-  - {fileID: 21300000, guid: 2c6e0ff34004449a5b6df7f831d75ad4, type: 3}
-  - {fileID: 21300000, guid: c3e6cd99eb89a4131ba031798a166ee2, type: 3}
-  - {fileID: 21300000, guid: da53c93aa5a954645915d95eaf499f47, type: 3}
+  - {fileID: 21300000, guid: 83410f4c44d189848977477cce92b300, type: 3}
+  - {fileID: 21300000, guid: f6e7d27cef3e1914ab74fdf9de0441f4, type: 3}
+  - {fileID: 21300000, guid: b1af6e0b9ff32834691d17df09b521ae, type: 3}
+  - {fileID: 21300000, guid: 600581d4174c6f44e84736ead058b556, type: 3}
+  - {fileID: 21300000, guid: a74d4ce64d32e1346a38690dfef6a90f, type: 3}
+  - {fileID: 21300000, guid: 66ec23e52256feb4eba7dfa9ee5717d2, type: 3}
+  - {fileID: 21300000, guid: 33be667856fdbe24289df5025ef55a02, type: 3}
+  - {fileID: 21300000, guid: 894d806cede4cc049a656b12c00aa149, type: 3}
+  - {fileID: 21300000, guid: 975a37966b7243d4b891aea5dec3a2bf, type: 3}
   _gbjAnimal: {fileID: 7825421696436810477}
   _imgAnimal: {fileID: 9021092906916996414}
   _spriteAnimals:
-  - {fileID: 21300000, guid: f8cfe45fca38f48a3a42a85cb4831dac, type: 3}
-  - {fileID: 21300000, guid: 141993e40212d42379292b211b01b63b, type: 3}
-  - {fileID: 21300000, guid: c97949c03524b44bab9a5b4003171d1e, type: 3}
+  - {fileID: 21300000, guid: 12c5ef5600cac24468849792a0624143, type: 3}
+  - {fileID: 21300000, guid: b07dd37374077b6448f31778dda31678, type: 3}
+  - {fileID: 21300000, guid: 854fc370b46e3dd4b8c2c16a3a3f9c3f, type: 3}
 --- !u!1 &6742990497426383271
 GameObject:
   m_ObjectHideFlags: 0
